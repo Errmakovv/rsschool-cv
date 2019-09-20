@@ -9,3 +9,6 @@
    * [Gamerobot](https://github.com/Errmakovv/gamerobot)
    * [Hexagon](https://github.com/Errmakovv/hexagon) 
    * [Plans](https://github.com/Errmakovv/plans)
+6. I was doing different projects(sites mostly) using **HTML**, **CSS**, **JS**
+7. HTML Academy , Codeacademy , Glo Academy webinars , Youtube video courses
+8. I had been styding English at school for 11 years
